@@ -1,4 +1,4 @@
 # Resume
 
 
-To see it depolyed: https://doclew.github.io/Resume/
+To see it deployed: https://doclew.github.io/Resume/
